@@ -7,4 +7,7 @@
   "description": "Package example",
   "keywords": ["example"],
   "license": "MIT"
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
